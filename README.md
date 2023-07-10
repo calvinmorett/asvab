@@ -170,23 +170,24 @@ These simple word problems cover basic mathematical operations and concepts like
 
 The Word Knowledge (WK) section of the ASVAB (Armed Services Vocational Aptitude Battery) assesses your vocabulary and word comprehension skills. It focuses on your ability to determine the correct meaning of a word and occasionally identify antonyms or words with opposite meanings. Here are some examples that reflect the type of questions you might encounter in the WK section:
 
+Direct Meaning
 Example 1: Word: Ample A) Sufficient B) Limited C) Scattered D) Temporary
 
 Correct Answer: A) Sufficient Explanation: "Ample" means plentiful or abundant, which is the opposite of "limited."
 
-Example 2: Word: Acquire A) Lose B) Maintain C) Release D) Decline
+Antonym Example 2: Word: Acquire A) Lose B) Maintain C) Release D) Decline
 
 Correct Answer: A) Lose Explanation: "Acquire" means to gain or obtain, while "lose" means to misplace or no longer have possession of something.
 
-Example 3: Word: Diligent A) Sloppy B) Careless C) Idle D) Lazy
+Antonym Example 3: Word: Diligent A) Sloppy B) Careless C) Idle D) Lazy
 
 Correct Answer: A) Sloppy Explanation: "Diligent" refers to being hardworking, thorough, and showing great attention to detail. Its opposite, "sloppy," implies carelessness or a lack of attention to detail.
 
-Example 4: Word: Coherent A) Confusing B) Incoherent C) Disjointed D) Muddled
+Antonym Example 4: Word: Coherent A) Confusing B) Incoherent C) Disjointed D) Muddled
 
 Correct Answer: B) Incoherent Explanation: "Coherent" means logical, clear, and understandable. "Incoherent" is the opposite, indicating something that lacks logical or organized structure.
 
-Example 5: Word: Benevolent A) Cruel B) Malicious C) Hostile D) Generous
+Antonym Example 5: Word: Benevolent A) Cruel B) Malicious C) Hostile D) Generous
 
 Correct Answer: A) Cruel Explanation: "Benevolent" describes someone who is kind, generous, and well-intentioned. The opposite is "cruel," which implies a lack of compassion or malicious intent.
 
@@ -266,8 +267,7 @@ These examples cover basic algebraic problem-solving, including solving equation
 
 # Electronics Information (EI)
 
-## Electrical principles, basic electronic circuitry, and\
-electronic terminology
+## Electrical principles, basic electronic circuitry, and electronic terminology
 
 Here are some examples of electrical principles, basic electronic circuitry, and electronic terminology:
 
