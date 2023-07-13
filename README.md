@@ -1,3 +1,9 @@
+# Advice
+Do your best on the ASVAB, and when taking TAPAS, avoid contradictions.
+
+
+
+
 # **General ASVAB test-taking tips**
 
 When taking the ASVAB, being prepared and knowing how to approach the questions can go a long way. Use the following test-taking tips to improve your ASVAB score:
