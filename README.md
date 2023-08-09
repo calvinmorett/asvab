@@ -1,5 +1,5 @@
 # Advice
-Do your best on the ASVAB, and when taking TAPAS, avoid contradictions.
+Do your best on the ASVAB (if you can read and/or easily eliminate based on the provided multiple choice answers, you'll do well), and when taking TAPAS, avoid contradictions.
 
 
 
